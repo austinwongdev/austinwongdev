@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @austinwongdev
-- 👀 I’m interested in application development and machine learning
-- 🌱 I’m currently learning React
 - 📫 How to reach me: austinwongdev@gmail.com
 
 <!---
